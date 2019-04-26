@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBOOTRestDataJPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: VJIT
+Implementation-Vendor-Id: com.cg.income
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBOOTRestDataJPA
+Created-By: Maven Integration for Eclipse
+Main-Class: com.cg.income.SpringBootRestDataJpaApplication.java
+
